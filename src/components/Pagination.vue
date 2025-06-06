@@ -33,7 +33,6 @@
 
 <script setup>
     import { useUpdateUrlParams } from '../composables/useUpdateUrlParams';
-
     const { updateUrlParams } = useUpdateUrlParams();
     
     const props = defineProps({
@@ -52,20 +51,20 @@
     };
 
     const shouldShowPage = (pageNum) => {
-        // Convert to 0-based index for easier comparison
+        
         const pageIndex = pageNum - 1;
         
-        // First page: show current and next 2 pages
+        
         if (props.currentPage === 0) {
             return pageIndex <= 2;
         }
         
-        // Last page: show previous 2 pages and current
+        
         if (props.currentPage === props.totalPages - 1) {
             return pageIndex >= props.totalPages - 3;
         }
         
-        // Middle pages: show previous, current, and next
+        
         return pageIndex >= props.currentPage - 1 && 
                pageIndex <= props.currentPage + 1;
     };

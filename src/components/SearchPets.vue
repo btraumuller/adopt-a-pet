@@ -44,7 +44,7 @@
                 page: 1  
             });
         } else {
-            // Remove filter parameter
+            
             const newQuery = { ...route.query };
             delete newQuery.filter;
             updateUrlParams({

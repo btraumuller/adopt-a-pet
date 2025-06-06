@@ -21,8 +21,10 @@
 
 <script setup>
     import { computed } from 'vue';
+    
     import { useUpdateUrlParams } from '../composables/useUpdateUrlParams';
     const { updatePageSize } = useUpdateUrlParams();
+
     const props = defineProps({
         total: {
             type: Number,

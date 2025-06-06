@@ -6,14 +6,11 @@ export function useUpdateUrlParams() {
     
     const updateUrlParams = (updates) => {
         
-    
-        // Combine existing and new query params, filtering out empty values
         const query = {
             ...route.query,
             ...updates
         };
 
-        // Remove empty values
         Object.keys(query).forEach(key => {
             if (query[key] === null || query[key] === undefined || query[key] === '') {
                 delete query[key];
@@ -28,11 +25,11 @@ export function useUpdateUrlParams() {
     };
 
     const updatePageSize = (pageSize) => {
-        updateUrlParams({ pageSize, page: 1 }); // Reset to first page
+        updateUrlParams({ pageSize, page: 1 }); 
     };
 
     const updateFilter = (filter) => {
-        updateUrlParams({ filter, page: 1 }); // Reset to first page
+        updateUrlParams({ filter, page: 1 });
     };
 
     return {
