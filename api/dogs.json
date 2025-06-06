@@ -1,0 +1,1028 @@
+[
+  {
+    "name": "Max",
+    "breed": "labrador",
+    "sub-breed": "",
+    "age": 3,
+    "status": "available",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/labrador/n02099712_4384.jpg",
+    "image": "n02099712_4384.jpg"
+  },
+  {
+    "name": "Bella",
+    "breed": "retriever",
+    "sub-breed": "golden",
+    "age": 2,
+    "status": "adopted",
+    "health-concerns": "Allergies",
+    "image-src": "https://images.dog.ceo/breeds/retriever-golden/n02099601_2994.jpg",
+    "image": "n02099601_2994.jpg"
+  },
+  {
+    "name": "Charlie",
+    "breed": "poodle",
+    "sub-breed": "toy",
+    "age": 5,
+    "status": "available",
+    "health-concerns": "Dental issues",
+    "image-src": "https://images.dog.ceo/breeds/poodle-toy/n02113624_8444.jpg",
+    "image": "n02113624_8444.jpg"
+  },
+  {
+    "name": "Luna",
+    "breed": "germanshepherd",
+    "sub-breed": "",
+    "age": 1,
+    "status": "new",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/germanshepherd/n02106662_22245.jpg",
+    "image": "n02106662_22245.jpg"
+  },
+  {
+    "name": "Bailey",
+    "breed": "husky",
+    "sub-breed": "",
+    "age": 2,
+    "status": "adopted",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/husky/n02110185_11783.jpg",
+    "image": "n02110185_11783.jpg"
+  },
+  {
+    "name": "Rocky",
+    "breed": "boxer",
+    "sub-breed": "",
+    "age": 3,
+    "status": "pending",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/boxer/n02108089_14112.jpg",
+    "image": "n02108089_14112.jpg"
+  },
+  {
+    "name": "Tucker",
+    "breed": "terrier",
+    "sub-breed": "yorkshire",
+    "age": 9,
+    "status": "adopted",
+    "health-concerns": "Dental issues",
+    "image-src": "https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_2349.jpg",
+    "image": "n02094433_2349.jpg"
+  },
+  {
+    "name": "Ruby",
+    "breed": "corgi",
+    "sub-breed": "cardigan",
+    "age": 6,
+    "status": "adopted",
+    "health-concerns": "Back problems",
+    "image-src": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_11017.jpg",
+    "image": "n02113186_11017.jpg"
+  },
+  {
+    "name": "Milo",
+    "breed": "poodle",
+    "sub-breed": "standard",
+    "age": 3,
+    "status": "available",
+    "health-concerns": "Skin allergies",
+    "image-src": "https://images.dog.ceo/breeds/poodle-standard/n02113799_204.jpg",
+    "image": "n02113799_204.jpg"
+  },
+  {
+    "name": "Penny",
+    "breed": "beagle",
+    "sub-breed": "",
+    "age": 3,
+    "status": "adopted",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/beagle/n02088364_17473.jpg",
+    "image": "n02088364_17473.jpg"
+  },
+  {
+    "name": "Thor",
+    "breed": "rottweiler",
+    "sub-breed": "",
+    "age": 2,
+    "status": "available",
+    "health-concerns": "Hip dysplasia",
+    "image-src": "https://images.dog.ceo/breeds/rottweiler/n02106550_2082.jpg",
+    "image": "n02106550_2082.jpg"
+  },
+  {
+    "name": "Willow",
+    "breed": "greyhound",
+    "sub-breed": "italian",
+    "age": 6,
+    "status": "pending",
+    "health-concerns": "Dental issues",
+    "image-src": "https://images.dog.ceo/breeds/greyhound-italian/n02091032_4087.jpg",
+    "image": "n02091032_4087.jpg"
+  },
+  {
+    "name": "Archie",
+    "breed": "terrier",
+    "sub-breed": "fox",
+    "age": 8,
+    "status": "adopted",
+    "health-concerns": "Allergies",
+    "image-src": "https://images.dog.ceo/breeds/terrier-fox/n02095314_2247.jpg",
+    "image": "n02095314_2247.jpg"
+  },
+  {
+    "name": "Teddy",
+    "breed": "poodle",
+    "sub-breed": "miniature",
+    "age": 4,
+    "status": "new",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/poodle-miniature/242981_4709618542275_742310792_o.jpg",
+    "image": "242981_4709618542275_742310792_o.jpg"
+  },
+  {
+    "name": "Maggie",
+    "breed": "collie",
+    "sub-breed": "border",
+    "age": 3,
+    "status": "pending",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/collie-border/n02106166_2000.jpg",
+    "image": "n02106166_2000.jpg"
+  },
+  {
+    "name": "Sophie",
+    "breed": "pug",
+    "sub-breed": "",
+    "age": 5,
+    "status": "adopted",
+    "health-concerns": "Breathing difficulties",
+    "image-src": "https://images.dog.ceo/breeds/pug/n02110958_5912.jpg",
+    "image": "n02110958_5912.jpg"
+  },
+  {
+    "name": "Chloe",
+    "breed": "bullterrier",
+    "sub-breed": "staffordshire",
+    "age": 4,
+    "status": "available",
+    "health-concerns": "Skin allergies",
+    "image-src": "https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_4997.jpg",
+    "image": "n02093256_4997.jpg"
+  },
+  {
+    "name": "Abby",
+    "breed": "corgi",
+    "sub-breed": "cardigan",
+    "age": 3,
+    "status": "available",
+    "health-concerns": "Back problems",
+    "image-src": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_7600.jpg",
+    "image": "n02113186_7600.jpg"
+  },
+  {
+    "name": "Roxy",
+    "breed": "boxer",
+    "sub-breed": "",
+    "age": 2,
+    "status": "available",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/boxer/n02108089_7319.jpg",
+    "image": "n02108089_7319.jpg"
+  },
+  {
+    "name": "Gus",
+    "breed": "bulldog",
+    "sub-breed": "french",
+    "age": 5,
+    "status": "available",
+    "health-concerns": "Respiratory issues",
+    "image-src": "https://images.dog.ceo/breeds/bulldog-french/n02108915_5201.jpg",
+    "image": "n02108915_5201.jpg"
+  },
+  {
+    "name": "Olive",
+    "breed": "labrador",
+    "sub-breed": "",
+    "age": 1,
+    "status": "new",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/labrador/n02099712_2226.jpg",
+    "image": "n02099712_2226.jpg"
+  },
+  {
+    "name": "Jake",
+    "breed": "boxer",
+    "sub-breed": "",
+    "age": 2,
+    "status": "new",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/boxer/n02108089_1654.jpg",
+    "image": "n02108089_1654.jpg"
+  },
+  {
+    "name": "Marley",
+    "breed": "labrador",
+    "sub-breed": "",
+    "age": 5,
+    "status": "available",
+    "health-concerns": "Arthritis",
+    "image-src": "https://images.dog.ceo/breeds/labrador/n02099712_475.jpg",
+    "image": "n02099712_475.jpg"
+  },
+  {
+    "name": "Dexter",
+    "breed": "doberman",
+    "sub-breed": "",
+    "age": 4,
+    "status": "pending",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/doberman/n02107142_18582.jpg",
+    "image": "n02107142_18582.jpg"
+  },
+  {
+    "name": "Bandit",
+    "breed": "corgi",
+    "sub-breed": "cardigan",
+    "age": 3,
+    "status": "available",
+    "health-concerns": "Back problems",
+    "image-src": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_440.jpg",
+    "image": "n02113186_440.jpg"
+  },
+  {
+    "name": "Lexi",
+    "breed": "pug",
+    "sub-breed": "",
+    "age": 6,
+    "status": "adopted",
+    "health-concerns": "Breathing difficulties",
+    "image-src": "https://images.dog.ceo/breeds/pug/n02110958_16492.jpg",
+    "image": "n02110958_16492.jpg"
+  },
+  {
+    "name": "Otis",
+    "breed": "bulldog",
+    "sub-breed": "french",
+    "age": 2,
+    "status": "adopted",
+    "health-concerns": "Respiratory issues",
+    "image-src": "https://images.dog.ceo/breeds/bulldog-french/n02108915_5667.jpg",
+    "image": "n02108915_5667.jpg"
+  },
+  {
+    "name": "Trixie",
+    "breed": "terrier",
+    "sub-breed": "fox",
+    "age": 5,
+    "status": "available",
+    "health-concerns": "Allergies",
+    "image-src": "https://images.dog.ceo/breeds/terrier-fox/n02095314_289.jpg",
+    "image": "n02095314_289.jpg"
+  },
+  {
+    "name": "Nova",
+    "breed": "husky",
+    "sub-breed": "",
+    "age": 2,
+    "status": "new",
+    "health-concerns": "Eye issues",
+    "image-src": "https://images.dog.ceo/breeds/husky/n02110185_9396.jpg",
+    "image": "n02110185_9396.jpg"
+  },
+  "This is a malformed dog record.",
+  {
+    "name": "Delilah",
+    "breed": "greyhound",
+    "sub-breed": "italian",
+    "age": 5,
+    "status": "pending",
+    "health-concerns": "Dental issues",
+    "image-src": "https://images.dog.ceo/breeds/greyhound-italian/n02091032_7200.jpg",
+    "image": "n02091032_7200.jpg"
+  },
+  {
+    "name": "Mack",
+    "breed": "retriever",
+    "sub-breed": "golden",
+    "age": 6,
+    "status": "adopted",
+    "health-concerns": "Hip dysplasia",
+    "image-src": "https://images.dog.ceo/breeds/retriever-golden/n02099601_3388.jpg",
+    "image": "n02099601_3388.jpg"
+  },
+  {
+    "name": "Honey",
+    "breed": "corgi",
+    "sub-breed": "cardigan",
+    "age": 4,
+    "status": "available",
+    "health-concerns": "Back problems",
+    "image-src": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_12793.jpg",
+    "image": "n02113186_12793.jpg"
+  },
+  {
+    "name": "Coco",
+    "breed": "poodle",
+    "sub-breed": "toy",
+    "age": 7,
+    "status": "available",
+    "health-concerns": "Dental issues",
+    "image-src": "https://images.dog.ceo/breeds/poodle-toy/n02113624_288.jpg",
+    "image": "n02113624_288.jpg"
+  },
+  {
+    "name": "Molly",
+    "breed": "beagle",
+    "sub-breed": "",
+    "age": 5,
+    "status": "adopted",
+    "health-concerns": "Obesity",
+    "image-src": "https://images.dog.ceo/breeds/beagle/Joey.jpg",
+    "image": "Joey.jpg"
+  },
+  {
+    "name": "Diesel",
+    "breed": "doberman",
+    "sub-breed": "",
+    "age": 3,
+    "status": "available",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/doberman/n02107142_5663.jpg",
+    "image": "n02107142_5663.jpg"
+  },
+  {
+    "name": "Missy",
+    "breed": "pug",
+    "sub-breed": "",
+    "age": 5,
+    "status": "pending",
+    "health-concerns": "Breathing difficulties",
+    "image-src": "https://images.dog.ceo/breeds/pug/n02110958_4993.jpg",
+    "image": "n02110958_4993.jpg"
+  },
+  {
+    "name": "Daisy",
+    "breed": "chihuahua",
+    "sub-breed": "",
+    "age": 8,
+    "status": "available",
+    "health-concerns": "Dental issues, Heart murmur",
+    "image-src": "https://images.dog.ceo/breeds/chihuahua/n02085620_952.jpg",
+    "image": "n02085620_952.jpg"
+  },
+  {
+    "name": "Jack",
+    "breed": "retriever",
+    "sub-breed": "chesapeake",
+    "age": 4,
+    "status": "available",
+    "health-concerns": "Ear infections",
+    "image-src": "https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_3563.jpg",
+    "image": "n02099849_3563.jpg"
+  },
+  {
+    "name": "Stella",
+    "breed": "bullterrier",
+    "sub-breed": "staffordshire",
+    "age": 2,
+    "status": "new",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_4678.jpg",
+    "image": "n02093256_4678.jpg"
+  },
+  {
+    "name": "Coco",
+    "breed": "chihuahua",
+    "sub-breed": "",
+    "age": 7,
+    "status": "adopted",
+    "health-concerns": "Dental issues",
+    "image-src": "https://images.dog.ceo/breeds/chihuahua/n02085620_2590.jpg",
+    "image": "n02085620_2590.jpg"
+  },
+  {
+    "name": "Duke",
+    "breed": "doberman",
+    "sub-breed": "",
+    "age": 2,
+    "status": "new",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/doberman/n02107142_3741.jpg",
+    "image": "n02107142_3741.jpg"
+  },
+  {
+    "name": "Bear",
+    "breed": "chow",
+    "sub-breed": "",
+    "age": 4,
+    "status": "available",
+    "health-concerns": "Eye problems",
+    "image-src": "https://images.dog.ceo/breeds/chow/n02112137_8862.jpg",
+    "image": "n02112137_8862.jpg"
+  },
+  {
+    "name": "Bentley",
+    "breed": "boxer",
+    "sub-breed": "",
+    "age": 1,
+    "status": "new",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/boxer/n02108089_11122.jpg",
+    "image": "n02108089_11122.jpg"
+  },
+  {
+    "name": "Lily",
+    "breed": "maltese",
+    "sub-breed": "",
+    "age": 9,
+    "status": "available",
+    "health-concerns": "Dental issues",
+    "image-src": "https://images.dog.ceo/breeds/maltese/n02085936_517.jpg",
+    "image": "n02085936_517.jpg"
+  },
+  {
+    "name": "Zeus",
+    "breed": "dane",
+    "sub-breed": "great",
+    "age": 2,
+    "status": "available",
+    "health-concerns": "Joint issues",
+    "image-src": "https://images.dog.ceo/breeds/dane-great/n02109047_3001.jpg",
+    "image": "n02109047_3001.jpg"
+  },
+  {
+    "name": "Finn",
+    "breed": "labrador",
+    "sub-breed": "",
+    "age": 1,
+    "status": "new",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/labrador/n02099712_7683.jpg",
+    "image": "n02099712_7683.jpg"
+  },
+  {
+    "name": "Toby",
+    "breed": "beagle",
+    "sub-breed": "",
+    "age": 7,
+    "status": "adopted",
+    "health-concerns": "Obesity",
+    "image-src": "https://images.dog.ceo/breeds/beagle/n02088364_13028.jpg",
+    "image": "n02088364_13028.jpg"
+  },
+  {
+    "name": "Leo",
+    "breed": "terrier",
+    "sub-breed": "american",
+    "age": 4,
+    "status": "pending",
+    "health-concerns": "Allergies",
+    "image-src": "https://images.dog.ceo/breeds/terrier-american/n02093428_9513.jpg",
+    "image": "n02093428_9513.jpg"
+  },
+  {
+    "name": "Hazel",
+    "breed": "chihuahua",
+    "sub-breed": "",
+    "age": 6,
+    "status": "pending",
+    "health-concerns": "Heart murmur",
+    "image-src": "https://images.dog.ceo/breeds/chihuahua/n02085620_2517.jpg",
+    "image": "n02085620_2517.jpg"
+  },
+  {
+    "name": "Rusty",
+    "breed": "retriever",
+    "sub-breed": "golden",
+    "age": 7,
+    "status": "adopted",
+    "health-concerns": "Hip dysplasia",
+    "image-src": "https://images.dog.ceo/breeds/retriever-golden/n02099601_7807.jpg",
+    "image": "n02099601_7807.jpg"
+  },
+  {
+    "name": "Scout",
+    "breed": "husky",
+    "sub-breed": "",
+    "age": 2,
+    "status": "pending",
+    "health-concerns": "Eye issues",
+    "image-src": "https://images.dog.ceo/breeds/husky/n02110185_931.jpg",
+    "image": "n02110185_931.jpg"
+  },
+  {
+    "name": "Millie",
+    "breed": "pug",
+    "sub-breed": "",
+    "age": 5,
+    "status": "available",
+    "health-concerns": "Breathing difficulties",
+    "image-src": "https://images.dog.ceo/breeds/pug/n02110958_14768.jpg",
+    "image": "n02110958_14768.jpg"
+  },
+  {
+    "name": "Izzy",
+    "breed": "collie",
+    "sub-breed": "border",
+    "age": 4,
+    "status": "pending",
+    "health-concerns": "Eye problems",
+    "image-src": "https://images.dog.ceo/breeds/collie-border/pippin3.jpg",
+    "image": "pippin3.jpg"
+  },
+  {
+    "name": "Phoebe",
+    "breed": "beagle",
+    "sub-breed": "",
+    "age": 3,
+    "status": "adopted",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/beagle/n02088364_2566.jpg",
+    "image": "n02088364_2566.jpg"
+  },
+  {
+    "name": "Baxter",
+    "breed": "terrier",
+    "sub-breed": "yorkshire",
+    "age": 7,
+    "status": "available",
+    "health-concerns": "Dental issues",
+    "image-src": "https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_5500.jpg",
+    "image": "n02094433_5500.jpg"
+  },
+  {
+    "name": "Bonnie",
+    "breed": "boxer",
+    "sub-breed": "",
+    "age": 4,
+    "status": "available",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/boxer/n02108089_2740.jpg",
+    "image": "n02108089_2740.jpg"
+  },
+  {
+    "name": "Dixie",
+    "breed": "chihuahua",
+    "sub-breed": "",
+    "age": 8,
+    "status": "adopted",
+    "health-concerns": "Dental issues, Heart murmur",
+    "image-src": "https://images.dog.ceo/breeds/chihuahua/n02085620_9654.jpg",
+    "image": "n02085620_9654.jpg"
+  },
+  {
+    "name": "Ginger",
+    "breed": "retriever",
+    "sub-breed": "chesapeake",
+    "age": 5,
+    "status": "pending",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_493.jpg",
+    "image": "n02099849_493.jpg"
+  },
+  {
+    "name": "Hank",
+    "breed": "beagle",
+    "sub-breed": "",
+    "age": 7,
+    "status": "pending",
+    "health-concerns": "Obesity",
+    "image-src": "https://images.dog.ceo/breeds/beagle/n02088364_15690.jpg",
+    "image": "n02088364_15690.jpg"
+  },
+  {
+    "name": "Josie",
+    "breed": "collie",
+    "sub-breed": "border",
+    "age": 4,
+    "status": "available",
+    "health-concerns": "Eye problems",
+    "image-src": "https://images.dog.ceo/breeds/collie-border/whiskey_caesar.jpg",
+    "image": "whiskey_caesar.jpg"
+  },
+  {
+    "name": "Walter",
+    "breed": "poodle",
+    "sub-breed": "miniature",
+    "age": 4,
+    "status": "available",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/poodle-miniature/n02113712_317.jpg",
+    "image": "n02113712_317.jpg"
+  },
+  {
+    "name": "Moose",
+    "breed": "labrador",
+    "sub-breed": "",
+    "age": 3,
+    "status": "available",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/labrador/Toblerone_4.jpg",
+    "image": "Toblerone_4.jpg"
+  },
+  {
+    "name": "Ziggy",
+    "breed": "boxer",
+    "sub-breed": "",
+    "age": 2,
+    "status": "available",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/boxer/n02108089_3557.jpg",
+    "image": "n02108089_3557.jpg"
+  },
+  {
+    "name": "Buddy",
+    "breed": "dachshund",
+    "sub-breed": "",
+    "age": 7,
+    "status": "adopted",
+    "health-concerns": "Back problems",
+    "image-src": "https://images.dog.ceo/breeds/dachshund/Stretched_Dachshund.jpg",
+    "image": "Stretched_Dachshund.jpg"
+  },
+  {
+    "name": "Zoe",
+    "breed": "doberman",
+    "age": 3,
+    "status": "pending",
+    "image-src": "https://images.dog.ceo/breeds/doberman/n02107142_18413.jpg",
+    "image": "n02107142_18413.jpg"
+  },
+  {
+    "name": "Ellie",
+    "breed": "retriever",
+    "sub-breed": "golden",
+    "age": 3,
+    "status": "available",
+    "health-concerns": "Ear infections",
+    "image-src": "https://images.dog.ceo/breeds/retriever-golden/n02099601_9504.jpg",
+    "image": "n02099601_9504.jpg"
+  },
+  {
+    "name": "Jackson",
+    "breed": "retriever",
+    "sub-breed": "chesapeake",
+    "age": 6,
+    "status": "pending",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_1310.jpg",
+    "image": "n02099849_1310.jpg"
+  },
+  {
+    "name": "Rex",
+    "breed": "germanshepherd",
+    "sub-breed": "",
+    "age": 2,
+    "status": "available",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/germanshepherd/n02106662_4498.jpg",
+    "image": "n02106662_4498.jpg"
+  },
+  {
+    "name": "Pepper",
+    "breed": "terrier",
+    "sub-breed": "border",
+    "age": 4,
+    "status": "available",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/terrier-border/n02093754_1722.jpg",
+    "image": "n02093754_1722.jpg"
+  },
+  {
+    "name": "Beau",
+    "breed": "rottweiler",
+    "sub-breed": "",
+    "age": 3,
+    "status": "adopted",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/rottweiler/n02106550_4039.jpg",
+    "image": "n02106550_4039.jpg"
+  },
+  {
+    "name": "Kona",
+    "breed": "husky",
+    "sub-breed": "",
+    "age": 1,
+    "status": "available",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/husky/n02110185_2728.jpg",
+    "image": "n02110185_2728.jpg"
+  },
+  {
+    "name": "Jasper",
+    "breed": "poodle",
+    "sub-breed": "standard",
+    "age": 5,
+    "status": "pending",
+    "health-concerns": "Skin allergies",
+    "image-src": "https://images.dog.ceo/breeds/poodle-standard/n02113799_298.jpg",
+    "image": "n02113799_298.jpg"
+  },
+  {
+    "name": "Ace",
+    "breed": "germanshepherd",
+    "sub-breed": "",
+    "age": 2,
+    "status": "available",
+    "health-concerns": "Hip dysplasia",
+    "image-src": "https://images.dog.ceo/breeds/germanshepherd/Storm_03.jpg",
+    "image": "Storm_03.jpg"
+  },
+  {
+    "name": "Rocco",
+    "breed": "rottweiler",
+    "sub-breed": "",
+    "age": 3,
+    "status": "available",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/rottweiler/n02106550_5311.jpg",
+    "image": "n02106550_5311.jpg"
+  },
+  {
+    "name": "Winnie",
+    "breed": "chihuahua",
+    "sub-breed": "",
+    "age": 9,
+    "status": "adopted",
+    "health-concerns": "Dental issues",
+    "image-src": "https://images.dog.ceo/breeds/chihuahua/n02085620_2921.jpg",
+    "image": "n02085620_2921.jpg"
+  },
+  {
+    "name": "Blue",
+    "breed": "terrier",
+    "sub-breed": "american",
+    "age": 3,
+    "status": "pending",
+    "health-concerns": "Allergies",
+    "image-src": "https://images.dog.ceo/breeds/terrier-american/n02093428_3549.jpg",
+    "image": "n02093428_3549.jpg"
+  },
+  {
+    "name": "Gunner",
+    "breed": "germanshepherd",
+    "sub-breed": "",
+    "age": 2,
+    "status": "new",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/germanshepherd/n02106662_2740.jpg",
+    "image": "n02106662_2740.jpg"
+  },
+  {
+    "name": "Simba",
+    "breed": "chow",
+    "sub-breed": "",
+    "age": 4,
+    "status": "available",
+    "health-concerns": "Eye problems",
+    "image-src": "https://images.dog.ceo/breeds/chow/n02112137_15792.jpg",
+    "image": "n02112137_15792.jpg"
+  },
+  {
+    "name": "Leia",
+    "breed": "husky",
+    "sub-breed": "",
+    "age": 2,
+    "status": "pending",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/husky/n02110185_4030.jpg",
+    "image": "n02110185_4030.jpg"
+  },
+  {
+    "name": "Lucy",
+    "breed": "beagle",
+    "sub-breed": "",
+    "age": 6,
+    "status": "available",
+    "health-concerns": "Obesity",
+    "image-src": "https://images.dog.ceo/breeds/beagle/n02088364_2661.jpg",
+    "image": "n02088364_2661.jpg"
+  },
+  {
+    "name": "Molly",
+    "breed": "collie",
+    "sub-breed": "border",
+    "age": 4,
+    "status": "available",
+    "health-concerns": "Hip dysplasia",
+    "image-src": "https://images.dog.ceo/breeds/collie-border/n02106166_7543.jpg",
+    "image": "n02106166_7543.jpg"
+  },
+  {
+    "name": "Cleo",
+    "breed": "dachshund",
+    "sub-breed": "",
+    "age": 6,
+    "status": "available",
+    "health-concerns": "Back problems",
+    "image-src": "https://images.dog.ceo/breeds/dachshund/Standard_Wire-hair_Dachshund.jpg",
+    "image": "Standard_Wire-hair_Dachshund.jpg"
+  },
+  {
+    "name": "Samson",
+    "breed": "dane",
+    "sub-breed": "great",
+    "age": 2,
+    "status": "new",
+    "health-concerns": "Joint issues",
+    "image-src": "https://images.dog.ceo/breeds/dane-great/n02109047_25603.jpg",
+    "image": "n02109047_25603.jpg"
+  },
+  {
+    "name": "Peanut",
+    "breed": "chihuahua",
+    "sub-breed": "",
+    "age": 8,
+    "status": "adopted",
+    "health-concerns": "Heart murmur",
+    "image-src": "https://images.dog.ceo/breeds/chihuahua/n02085620_1455.jpg",
+    "image": "n02085620_1455.jpg"
+  },
+  {
+    "name": "Lulu",
+    "breed": "poodle",
+    "sub-breed": "toy",
+    "age": 8,
+    "status": "adopted",
+    "health-concerns": "Dental issues",
+    "image-src": "https://images.dog.ceo/breeds/poodle-toy/n02113624_720.jpg",
+    "image": "n02113624_720.jpg"
+  },
+  {
+    "name": "Stella",
+    "breed": "retriever",
+    "sub-breed": "golden",
+    "age": 6,
+    "status": "available",
+    "health-concerns": "Hip dysplasia",
+    "image-src": "https://images.dog.ceo/breeds/retriever-golden/n02099601_7916.jpg",
+    "image": "n02099601_7916.jpg"
+  },
+  {
+    "name": "Winston",
+    "breed": "dane",
+    "sub-breed": "great",
+    "age": 4,
+    "status": "pending",
+    "health-concerns": "Joint issues",
+    "image-src": "https://images.dog.ceo/breeds/dane-great/n02109047_5588.jpg",
+    "image": "n02109047_5588.jpg"
+  },
+  {
+    "name": "Bruno",
+    "breed": "germanshepherd",
+    "sub-breed": "",
+    "age": 5,
+    "status": "pending",
+    "health-concerns": "Hip dysplasia",
+    "image-src": "https://images.dog.ceo/breeds/germanshepherd/n02106662_2753.jpg",
+    "image": "n02106662_2753.jpg"
+  },
+  {
+    "name": "Nala",
+    "breed": "husky",
+    "sub-breed": "",
+    "age": 2,
+    "status": "available",
+    "health-concerns": "Eye issues",
+    "image-src": "https://images.dog.ceo/breeds/husky/n02110185_2368.jpg",
+    "image": "n02110185_2368.jpg"
+  },
+  {
+    "name": "Lola",
+    "breed": "pug",
+    "sub-breed": "",
+    "age": 5,
+    "status": "available",
+    "health-concerns": "Breathing difficulties",
+    "image-src": "https://images.dog.ceo/breeds/puggle/IMG_104458.jpg",
+    "image": "IMG_104458.jpg"
+  },
+  {
+    "name": "Cooper",
+    "breed": "bulldog",
+    "sub-breed": "french",
+    "age": 4,
+    "status": "pending",
+    "health-concerns": "Respiratory issues",
+    "image-src": "https://images.dog.ceo/breeds/bulldog-french/n02108915_4193.jpg",
+    "image": "n02108915_4193.jpg"
+  },
+  {
+    "name": "Louie",
+    "breed": "dachshund",
+    "sub-breed": "",
+    "age": 6,
+    "status": "pending",
+    "health-concerns": "Back problems",
+    "image-src": "https://images.dog.ceo/breeds/dachshund/daschund-1.jpg",
+    "image": "daschund-1.jpg"
+  },
+  {
+    "name": "Piper",
+    "breed": "australian",
+    "sub-breed": "kelpie",
+    "age": 4,
+    "status": "available",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/australian-kelpie/Resized_20200416_142905_108884348190285.jpg",
+    "image": "Resized_20200416_142905_108884348190285.jpg"
+  },
+  {
+    "name": "Sadie",
+    "breed": "australian",
+    "sub-breed": "shepherd",
+    "age": 2,
+    "status": "new",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/australian-shepherd/pepper.jpg",
+    "image": "pepper.jpg"
+  },
+  {
+    "name": "Oscar",
+    "breed": "dachshund",
+    "sub-breed": "",
+    "age": 6,
+    "status": "adopted",
+    "health-concerns": "Back problems",
+    "image-src": "https://images.dog.ceo/breeds/dachshund/dog-1018408_640.jpg",
+    "image": "dog-1018408_640.jpg"
+  },
+  {
+    "name": "Murphy",
+    "breed": "australian",
+    "sub-breed": "shepherd",
+    "age": 3,
+    "status": "available",
+    "health-concerns": "None",
+    "image": "ashepherd.jpg"
+  },
+  {
+    "name": "Poppy",
+    "breed": "dalmatian",
+    "sub-breed": "",
+    "age": 1,
+    "status": "new",
+    "health-concerns": "Deafness",
+    "image-src": "https://images.dog.ceo/breeds/dalmatian/cooper1.jpg",
+    "image": "cooper1.jpg"
+  },
+  {
+    "name": "Callie",
+    "breed": "australian",
+    "sub-breed": "shepherd",
+    "age": 1,
+    "status": "new",
+    "health-concerns": "None",
+    "image-src": "https://images.dog.ceo/breeds/australian-shepherd/pepper.jpg",
+    "image": "pepper.jpg"
+  },
+  {
+    "name": "Rufus",
+    "breed": "bulldog",
+    "sub-breed": "english",
+    "age": 6,
+    "status": "available",
+    "health-concerns": "Skin fold dermatitis",
+    "image-src": "https://images.dog.ceo/breeds/bulldog-english/jager-1.jpg",
+    "image": "jager-1.jpg"
+  },
+  {
+    "name": "Rosie",
+    "breed": "bulldog",
+    "sub-breed": "english",
+    "age": 5,
+    "status": "pending",
+    "health-concerns": "Skin fold dermatitis",
+    "image-src": "https://images.dog.ceo/breeds/bulldog-english/bunz.jpg",
+    "image": "bunz.jpg"
+  },
+  {
+    "name": "Harley",
+    "breed": "bulldog",
+    "sub-breed": "english",
+    "age": 3,
+    "status": "adopted",
+    "health-concerns": "Skin fold dermatitis",
+    "image-src": "https://images.dog.ceo/breeds/bulldog-english/jager-2.jpg",
+    "image": "jager-2.jpg"
+  },
+  {
+    "name": "Oliver",
+    "breed": "dalmatian",
+    "sub-breed": "",
+    "age": 1,
+    "status": "available",
+    "health-concerns": "Deafness",
+    "image": "dalmation.jpg"
+  },
+  {
+    "name": "Gracie",
+    "breed": "dalmatian",
+    "sub-breed": "",
+    "age": 3,
+    "status": "new",
+    "health-concerns": "Deafness",
+    "image": "dog-6342165_1280.jpg"
+  }
+]
